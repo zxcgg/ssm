@@ -1,0 +1,10 @@
+cn\cwx521\pojo\User.class
+cn\cwx521\controller\UserLoginController.class
+cn\cwx521\controller\LoginController.class
+cn\cwx521\pojo\UserExample.class
+cn\cwx521\pojo\UserExample$Criteria.class
+cn\cwx521\pojo\UserExample$GeneratedCriteria.class
+cn\cwx521\mapper\UserMapper.class
+cn\cwx521\pojo\UserExample$Criterion.class
+cn\cwx521\service\UserSiver.class
+cn\cwx521\service\imp\UserServiceImp.class
